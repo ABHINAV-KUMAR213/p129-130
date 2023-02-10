@@ -1,0 +1,29 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0;
+}
+.note{
+    font-size: 30px;
+    color:rgb(255, 1, 1);
+}
+body{
+    background-size: cover;
+}
+.song{
+    width: 150px;
+    font-size: 25px;
+}
+#play{
+    color: white;
+    background: linear-gradient(#e66465, #9198e5);
+    height:35px;
+    border-radius: 5px;
+   
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    margin-top: 220px;
+}
+
